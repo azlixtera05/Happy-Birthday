@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Dữ liệu đăng nhập cố định
     const validUsername = "Phong";
-    const validPassword = "123";
+    const validPassword = "13112006";
 
     // Lấy giá trị từ form
     const username = document.getElementById("username").value.trim();
